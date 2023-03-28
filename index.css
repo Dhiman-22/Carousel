@@ -1,0 +1,12 @@
+#carousel1{
+    display:flex;
+  }
+  #carousel1>div{
+    border:1px solid red;
+  }
+  #carousel1 img{
+    size:100px;
+  }
+  #carousel1 button{
+    background-color:pink;
+  }
